@@ -1,6 +1,6 @@
 <h1 align="center">Valencia</h1>
 <p align="center">
-  <code>DevOps Engineer · Kubernetes · CI/CD · Cloud Optimisation · Go</code>
+  <code>DevOps Engineer & Educator · Kubernetes · CI/CD · Cloud Optimisation · Go</code>
 </p>
 <p align="center">
   I break down DevOps, system design, and backend engineering into clear, practical, visual lessons — the way I wish someone had taught me.
