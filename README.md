@@ -43,8 +43,8 @@
 </table>
 
 <h3>📺 &nbsp;Latest on YouTube</h3>
-<!-- BEGIN YOUTUBE -->
-<!-- END YOUTUBE -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 <p align="left">
   <a href="https://www.youtube.com/@LearnTechwithValencia?sub_confirmation=1">
     <img src="https://custom-icon-badges.demolab.com/badge/Subscribe%20for%20more-FF0000?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe"/>
