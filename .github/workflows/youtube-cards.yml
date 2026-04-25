@@ -1,24 +1,18 @@
-name: Update YouTube Cards
+name: GitHub Readme YouTube Cards
 
 on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update-readme:
+  deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - name: Pull latest YouTube videos
-        uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCbJ5w7qVjWZElbVnC2aU_kg
-          max_videos: 6
           comment_tag_name: YOUTUBE
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update YouTube cards"
+          max_videos: 6
