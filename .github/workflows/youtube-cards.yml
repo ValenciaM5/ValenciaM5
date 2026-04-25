@@ -1,0 +1,24 @@
+name: Update YouTube Cards
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull latest YouTube videos
+        uses: DenverCoder1/[email protected]
+        with:
+          channel_id: UCbJ5w7qVjWZElbVnC2aU_kg
+          max_videos: 6
+          comment_tag_name: YOUTUBE
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update YouTube cards"
