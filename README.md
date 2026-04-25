@@ -5,7 +5,7 @@
 <p align="center">
   I break down DevOps, system design, and backend engineering into clear, practical, visual lessons — the way I wish someone had taught me.
   <br/>
-  I also build in public. Currently building <a href="https://github.com/ValenciaM5/devlog-api"><b>DevLog</b></a>, a REST API in Go.
+  I also build in public. Currently building <a href="https://github.com/ValenciaM5/devlog-api"><b>DevLog</b></a>, a REST API in Go for DevOps engineers.
 </p>
 <p align="center">
   <a href="https://www.youtube.com/@LearnTechwithValencia">
@@ -43,10 +43,8 @@
 </table>
 
 <h3>📺 &nbsp;Latest on YouTube</h3>
-<!-- YOUTUBE:START -->
-<!-- Video cards will be auto-generated here by the GitHub Action.
-     Setup instructions are at the bottom of this README. -->
-<!-- YOUTUBE:END -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 <p align="left">
   <a href="https://www.youtube.com/@LearnTechwithValencia?sub_confirmation=1">
     <img src="https://custom-icon-badges.demolab.com/badge/Subscribe%20for%20more-FF0000?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe"/>
