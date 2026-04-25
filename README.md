@@ -70,7 +70,7 @@
 <h3>📊 &nbsp;GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ValenciaM5&show_icons=true&hide_border=true&theme=gruvbox&count_private=true" alt="Valencia's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ValenciaM5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FB923C&icon_color=FB923C&text_color=60A5FA&count_private=true" alt="Valencia's GitHub Stats"/>
   </a>
 </p>
 
