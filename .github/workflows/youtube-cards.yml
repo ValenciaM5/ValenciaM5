@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Pull latest YouTube videos
-        uses: DenverCoder1/[email protected]
+        uses: DenverCoder1/github-readme-youtube-cards@v1.8.0
         with:
           channel_id: UCbJ5w7qVjWZElbVnC2aU_kg
           max_videos: 6
