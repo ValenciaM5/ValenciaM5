@@ -45,7 +45,7 @@
 ### 📺 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Before You Learn DevOps, Learn How Computers Actually Work (CPU, RAM, Disk & Cache)](https://ytcards.demolab.com/?id=gjL1DnicmY0&title=Before+You+Learn+DevOps%2C+Learn+How+Computers+Actually+Work+%28CPU%2C+RAM%2C+Disk+%26+Cache%29&lang=en&timestamp=1776779487&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Before You Learn DevOps, Learn How Computers Actually Work (CPU, RAM, Disk & Cache)")](https://www.youtube.com/watch?v=gjL1DnicmY0)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="left">
